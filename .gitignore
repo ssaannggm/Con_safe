@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore everything
+*
+
+# But don't ignore these directories
+!dist/
+!build/
+
+# Allow all files within those directories
+dist/**
+build/**
