@@ -1,5 +1,1 @@
-{
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "terminal.integrated.defaultProfile.linux": "/bin/bash",
-    "editor.formatOnSave": true
-}
+{}
